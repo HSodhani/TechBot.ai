@@ -18,6 +18,7 @@ ChatBot.ai is a responsive and interactive AI-driven chat interface built with S
 ### To set up ChatBot.ai, follow these steps:
 
 - Clone the repository:
+  
 ```git clone https://your-repository-url-here```
 
 - Install the required dependencies:
