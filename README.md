@@ -15,6 +15,9 @@ ChatBot.ai is a responsive and interactive AI-driven chat interface built with S
 
 ## Installation
 
+### To setup the OpenAI API key
+Paste the OpenAI API key in the ```.streamlit/secrets.toml``` file before running the code
+
 ### To set up ChatBot.ai, follow these steps:
 
 - Clone the repository:
