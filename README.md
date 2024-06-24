@@ -39,6 +39,9 @@ To run ChatBot.ai, navigate to the project directory and run the following comma
 - Managing Conversations: Use the sidebar to save, load, or delete conversations. Conversations can be named for easy retrieval.
 - Generating Guides: To generate a step-by-step guide, type your request in the format: "generate a step by step guide on _[topic]_".
 
+### Youtube Link: 
+https://youtu.be/nwieVZLAeAM
+
 ## Development
 Developers can extend this project by adding more specialized commands, improving the AI's response accuracy, or integrating additional AI models.
 
