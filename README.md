@@ -19,7 +19,7 @@ ChatBot.ai is a responsive and interactive AI-driven chat interface built with S
 
 - Clone the repository:
   
-```git clone https://your-repository-url-here```
+```git clone https://github.com/HSodhani/ChatBot.ai```
 
 - Install the required dependencies:
 
