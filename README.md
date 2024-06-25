@@ -1,5 +1,5 @@
-# ChatBot.ai
-ChatBot.ai is a responsive and interactive AI-driven chat interface built with Streamlit and powered by OpenAI's GPT-3.5 Turbo model. It offers users the capability to engage in a dynamic conversation, manage conversation history, and execute special commands to generate detailed step-by-step guides on specified topics.
+# 
+TechBot.ai is a responsive and interactive AI-driven chat interface built with Streamlit and powered by OpenAI's GPT-3.5 Turbo model. It offers users the capability to engage in a dynamic conversation, manage conversation history, and execute special commands to generate detailed step-by-step guides on specified topics.
 
 ## Key Features
 - **Interactive Chat Interface**: Allows users to interact through a simple text input to receive detailed and context-aware responses.
@@ -18,18 +18,18 @@ ChatBot.ai is a responsive and interactive AI-driven chat interface built with S
 ### To setup the OpenAI API key
 Paste the OpenAI API key in the ```.streamlit/secrets.toml``` file before running the code
 
-### To set up ChatBot.ai, follow these steps:
+### To set up TechBot.ai, follow these steps:
 
 - Clone the repository:
   
-```git clone https://github.com/HSodhani/ChatBot.ai```
+```git clone https://github.com/HSodhani/TechBot.ai```
 
 - Install the required dependencies:
 
 ```pip install streamlit openai```
 
 ## Usage
-To run ChatBot.ai, navigate to the project directory and run the following command in your terminal:
+To run TechBot.ai, navigate to the project directory and run the following command in your terminal:
 
 
 ```streamlit run main.py```
@@ -48,5 +48,5 @@ Developers can extend this project by adding more specialized commands, improvin
 ## Contributing
 Contributions are welcome! Please fork the repository and submit pull requests with your enhancements.
 
-## About ChatBot.ai
-ChatBot.ai leverages advanced AI techniques to provide insightful and actionable responses, aiming to enhance user experience through technology. It's a versatile tool for anyone looking to explore AI capabilities in conversation management.
+## About TechBot.ai
+TechBot.ai leverages advanced AI techniques to provide insightful and actionable responses, aiming to enhance user experience through technology. It's a versatile tool for anyone looking to explore AI capabilities in conversation management.
