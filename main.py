@@ -3,7 +3,7 @@ from openai import OpenAI
 import re
 
 def main():
-    st.title("💬 ChatBot.ai")
+    st.title("💬 TechBot.ai")
 
     # Load API key from Streamlit's secrets
     openai_api_key = st.secrets["OPENAI_API_KEY"]
@@ -115,10 +115,10 @@ def main():
     - To generate a step by step guide, type: "generate a a step by step guide on [topic]" and click 'Send'.
     """)
 
-    # About ChatBot.ai
-    st.sidebar.header("About ChatBot.ai")
+    # About TechBot.ai
+    st.sidebar.header("About TechBot.ai")
     st.sidebar.info("""
-    ChatBot.ai uses advanced AI techniques to generate insights and provide information based on user queries.
+    TechBot.ai uses advanced AI techniques to generate insights and provide information based on user queries.
     """)
 
 if __name__ == "__main__":
