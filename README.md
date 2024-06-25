@@ -1,4 +1,4 @@
-# 
+# TechBot.ai
 TechBot.ai is a responsive and interactive AI-driven chat interface built with Streamlit and powered by OpenAI's GPT-3.5 Turbo model. It offers users the capability to engage in a dynamic conversation, manage conversation history, and execute special commands to generate detailed step-by-step guides on specified topics.
 
 ## Key Features
